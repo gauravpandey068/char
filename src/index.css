@@ -1,5 +1,5 @@
 body {
-  background-color: #252121;
+  background-color: #66d494;
 }
 
 .App {
@@ -30,7 +30,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-color: rgb(40, 37, 53);
+  background-color: rgb(109, 159, 206);
 }
 
 main {
